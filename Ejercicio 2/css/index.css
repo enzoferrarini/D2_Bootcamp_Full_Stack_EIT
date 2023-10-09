@@ -1,0 +1,23 @@
+body{
+    background-color: #289688;
+}
+
+img{
+    margin: 4px;
+    border: 10px solid #ffffff;
+}
+
+.titulo-principal{
+    margin: 40px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: 3.5rem;
+    color: #fcea3e;
+    text-align: center;    
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
